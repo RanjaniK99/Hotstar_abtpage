@@ -84,20 +84,19 @@ a {
 
 .fbimg {
   border-radius: 5px;
-
-  margin-left: 700px;
+  margin-left: 600px;
 }
 .twitimg {
   margin-top: -50px;
   border-radius: 5px;
-  margin-left: 770px;
+  margin-left: 670px;
 }
 
 .fb {
   margin-top: -10px;
 }
 .connect {
-  margin-left: 710px;
+  margin-left: 610px;
   margin-top: -90px;
   font-size: 15px;
   color: gray;
@@ -105,17 +104,17 @@ a {
 .googleimg {
   margin-top: -50px;
   border-radius: 5px;
-  margin-left: 980px;
+  margin-left: 750px;
 }
 .appleimg {
   margin-top: -50px;
   border-radius: 5px;
-  margin-left: 1150px;
+  margin-left: 900px;
 }
 .connect2 {
   margin-top: -85px;
   font-size: 15px;
-  margin-left: 1000px;
+  margin-left: 800px;
   color: gray;
 }
 .google {
